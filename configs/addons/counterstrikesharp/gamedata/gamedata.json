@@ -265,5 +265,11 @@
       "windows": 584,
       "linux": 584
     }
+  },
+  "CNetworkGameServer_ClientList": {
+    "offsets": {
+      "windows": 78,
+      "linux": 80
+    }
   }
 }
